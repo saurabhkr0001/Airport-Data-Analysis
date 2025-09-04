@@ -37,3 +37,6 @@ Airline industry me fluctuating demand, rising fuel costs aur route optimization
 ---
 
 ## 📁 Project Structure
+https://github.com/saurabhkr0001/Airport-Data-Analysis/blob/main/SQL%20Project_%20Airport%20Data%20Analysiss.sql 
+https://github.com/saurabhkr0001/Airport-Data-Analysis/blob/main/README.md 
+
